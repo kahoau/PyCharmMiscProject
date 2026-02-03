@@ -9,8 +9,10 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# User-specific configuration files
-.idea/workspace.xml
-.idea/misc.xml
-.idea/tasks.xml
-.idea/vcs.xml
+
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/PyCharmMiscProject.iml
+/vcs.xml
